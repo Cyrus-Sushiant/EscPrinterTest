@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32422.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscPrinterTest", "EscPrinterTest\EscPrinterTest.csproj", "{29E73E28-19E5-40DD-9B7D-DAFB2680D95C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermalDotNet", "ThermalDotNet\ThermalDotNet.csproj", "{40DF7557-6E47-4D59-ADA0-5972F5D13DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29E73E28-19E5-40DD-9B7D-DAFB2680D95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E73E28-19E5-40DD-9B7D-DAFB2680D95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E73E28-19E5-40DD-9B7D-DAFB2680D95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40DF7557-6E47-4D59-ADA0-5972F5D13DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DF7557-6E47-4D59-ADA0-5972F5D13DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DF7557-6E47-4D59-ADA0-5972F5D13DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DF7557-6E47-4D59-ADA0-5972F5D13DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
